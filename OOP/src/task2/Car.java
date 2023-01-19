@@ -6,7 +6,7 @@ abstract class Car {
     private String color;
     private String name;
 
-    public void start() {
+    protected void start() {
         System.out.println("Car starting");
     }
 
