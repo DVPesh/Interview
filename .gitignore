@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 Collections/target
 Hibernate/target
+Web/target
 
 ### Eclipse ###
 .apt_generated
